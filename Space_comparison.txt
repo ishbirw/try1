@@ -1,0 +1,5 @@
+Amount of space required in the flash using the Arduino : 1018 Bytes
+
+Amount of space required in the flash using AVR library : 178 Bytes
+
+The program using AVR library consumes the least amount of space.
